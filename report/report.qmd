@@ -1,0 +1,13 @@
+---
+title: "Understanding Factors That Affect the Existence of Digital Innovation Hubs"
+subtitle: "An Analysis of Toronto Libraries' Data"
+author: "Yanzun Jiang"
+thanks: "Code and data are available at: [](https://github.com/Stary54264/relationship_between_attributes_and_whether_dih_exists_in_toronto_libraries)."
+date: today
+date-format: long
+format: pdf
+toc: true
+number-sections: true
+---
+
+
